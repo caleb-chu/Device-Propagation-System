@@ -1,3 +1,5 @@
+Simulation is coded in project1.py
+
 **Distributed System Simulation**
 
 The input file consists of lines of text, each describing a specific aspect of the simulation:
