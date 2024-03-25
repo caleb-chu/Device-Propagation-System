@@ -1,0 +1,26 @@
+# sample_input.txt
+#
+# ICS 33 Fall 2023
+# Project 1: Calling All Stations
+#
+# This is a sample input file that matches the example scenario described
+# in the section of the project write-up titled "The simulation model".
+
+
+# The simulation's length is high enough that every event occurring in the
+# example will occur before the simulation ends.
+LENGTH 600
+
+# These are the four devices from that example
+DEVICE 1
+DEVICE 2
+
+
+# These are the propagation rules described in that example
+PROPAGATE 1 2 300
+
+
+# Here, we have the one scheduled alert and its subsequent cancellation
+# described in that example
+ALERT 1 Trouble 200
+
